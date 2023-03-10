@@ -8,5 +8,5 @@
   "index.html": "/index.html",
   "precache-manifest.259342a60ab42631a57b84d1e8b73d67.js": "/precache-manifest.259342a60ab42631a57b84d1e8b73d67.js",
   "service-worker.js": "/service-worker.js",
-  "static/media/termsIcon.svg": "static/media/termsIcon.c3183b00.svg"
+  "static/media/termsIcon.svg": "vinDecoderBuild/static/media/termsIcon.c3183b00.svg"
 }
